@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\ModbusRTU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|d:\\source\\modbusrtu\\modbustcpview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|solutionrelative:modbustcpview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|d:\\source\\modbusrtu\\modbustcpview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|solutionrelative:modbustcpview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|d:\\source\\modbusrtu\\modbustcpview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|solutionrelative:modbustcpview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\ModbusRTU\\ModbusTcpView\\Program.cs",
+              "RelativeDocumentMoniker": "ModbusTcpView\\Program.cs",
+              "ToolTip": "D:\\source\\ModbusRTU\\ModbusTcpView\\Program.cs",
+              "RelativeToolTip": "ModbusTcpView\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T05:00:17.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\source\\ModbusRTU\\ModbusTcpView\\Form1.cs",
+              "RelativeDocumentMoniker": "ModbusTcpView\\Form1.cs",
+              "ToolTip": "D:\\source\\ModbusRTU\\ModbusTcpView\\Form1.cs",
+              "RelativeToolTip": "ModbusTcpView\\Form1.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwIsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:51:32.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\source\\ModbusRTU\\ModbusTcpView\\Form1.cs",
+              "RelativeDocumentMoniker": "ModbusTcpView\\Form1.cs",
+              "ToolTip": "D:\\source\\ModbusRTU\\ModbusTcpView\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ModbusTcpView\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:51:07.073Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

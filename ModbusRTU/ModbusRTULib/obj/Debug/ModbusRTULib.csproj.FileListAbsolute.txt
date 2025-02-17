@@ -1,0 +1,6 @@
+D:\source\ModbusRTU\ModbusRTULib\bin\Debug\ModbusRTULib.dll
+D:\source\ModbusRTU\ModbusRTULib\bin\Debug\ModbusRTULib.pdb
+D:\source\ModbusRTU\ModbusRTULib\obj\Debug\ModbusRTULib.csproj.AssemblyReference.cache
+D:\source\ModbusRTU\ModbusRTULib\obj\Debug\ModbusRTULib.csproj.CoreCompileInputs.cache
+D:\source\ModbusRTU\ModbusRTULib\obj\Debug\ModbusRTULib.dll
+D:\source\ModbusRTU\ModbusRTULib\obj\Debug\ModbusRTULib.pdb

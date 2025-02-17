@@ -1,0 +1,15 @@
+D:\source\ModbusRTU\ModbusTcpView\obj\Debug\ModbusTcpView.csproj.AssemblyReference.cache
+D:\source\ModbusRTU\ModbusTcpView\obj\Debug\ModbusTcpView.Properties.Resources.resources
+D:\source\ModbusRTU\ModbusTcpView\obj\Debug\ModbusTcpView.csproj.GenerateResource.cache
+D:\source\ModbusRTU\ModbusTcpView\obj\Debug\ModbusTcpView.csproj.CoreCompileInputs.cache
+D:\source\ModbusRTU\ModbusTcpView\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\source\ModbusRTU\ModbusTcpView\bin\Debug\ModbusTcpView.exe.config
+D:\source\ModbusRTU\ModbusTcpView\bin\Debug\ModbusTcpView.exe
+D:\source\ModbusRTU\ModbusTcpView\bin\Debug\ModbusTcpView.pdb
+D:\source\ModbusRTU\ModbusTcpView\bin\Debug\ModbusTCP.dll
+D:\source\ModbusRTU\ModbusTcpView\bin\Debug\thinger.DataConvertLib.dll
+D:\source\ModbusRTU\ModbusTcpView\bin\Debug\ModbusTCP.pdb
+D:\source\ModbusRTU\ModbusTcpView\bin\Debug\thinger.DataConvertLib.xml
+D:\source\ModbusRTU\ModbusTcpView\obj\Debug\ModbusTc.F81688F5.Up2Date
+D:\source\ModbusRTU\ModbusTcpView\obj\Debug\ModbusTcpView.exe
+D:\source\ModbusRTU\ModbusTcpView\obj\Debug\ModbusTcpView.pdb

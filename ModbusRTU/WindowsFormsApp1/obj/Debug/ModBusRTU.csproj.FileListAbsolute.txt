@@ -1,0 +1,15 @@
+D:\source\ModbusRTU\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\source\ModbusRTU\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\source\ModbusRTU\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\source\ModbusRTU\WindowsFormsApp1\obj\Debug\ModBusRTU.csproj.AssemblyReference.cache
+D:\source\ModbusRTU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\source\ModbusRTU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\source\ModbusRTU\WindowsFormsApp1\obj\Debug\ModBusRTU.csproj.GenerateResource.cache
+D:\source\ModbusRTU\WindowsFormsApp1\obj\Debug\ModBusRTU.csproj.CoreCompileInputs.cache
+D:\source\ModbusRTU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\source\ModbusRTU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\source\ModbusRTU\WindowsFormsApp1\bin\Debug\thinger.DataConvertLib.dll
+D:\source\ModbusRTU\WindowsFormsApp1\bin\Debug\thinger.DataConvertLib.xml
+D:\source\ModbusRTU\WindowsFormsApp1\obj\Debug\ModBusRTU.csproj.Up2Date
+D:\source\ModbusRTU\WindowsFormsApp1\bin\Debug\ModbusRTULib.dll
+D:\source\ModbusRTU\WindowsFormsApp1\bin\Debug\ModbusRTULib.pdb

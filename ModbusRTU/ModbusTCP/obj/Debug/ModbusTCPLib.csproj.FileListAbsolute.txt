@@ -1,0 +1,6 @@
+D:\source\ModbusRTU\ModbusTCP\bin\Debug\ModbusTCP.dll
+D:\source\ModbusRTU\ModbusTCP\bin\Debug\ModbusTCP.pdb
+D:\source\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCPLib.csproj.AssemblyReference.cache
+D:\source\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCPLib.csproj.CoreCompileInputs.cache
+D:\source\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCP.dll
+D:\source\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCP.pdb
