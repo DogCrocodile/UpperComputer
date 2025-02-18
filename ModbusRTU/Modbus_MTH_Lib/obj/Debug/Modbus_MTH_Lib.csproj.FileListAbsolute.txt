@@ -1,0 +1,9 @@
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\bin\Debug\Modbus_MTH_Lib.dll
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\bin\Debug\Modbus_MTH_Lib.pdb
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.csproj.AssemblyReference.cache
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.NaviButton.resources
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.Properties.Resources.resources
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.csproj.GenerateResource.cache
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.csproj.CoreCompileInputs.cache
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.dll
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.pdb

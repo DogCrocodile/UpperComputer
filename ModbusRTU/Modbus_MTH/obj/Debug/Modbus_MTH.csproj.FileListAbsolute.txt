@@ -1,0 +1,13 @@
+D:\gitSource\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.csproj.AssemblyReference.cache
+D:\gitSource\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.Properties.Resources.resources
+D:\gitSource\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.csproj.GenerateResource.cache
+D:\gitSource\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.csproj.CoreCompileInputs.cache
+D:\gitSource\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH.exe.config
+D:\gitSource\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH.exe
+D:\gitSource\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH.pdb
+D:\gitSource\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.FormMain.resources
+D:\gitSource\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.exe
+D:\gitSource\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.pdb
+D:\gitSource\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH_Lib.dll
+D:\gitSource\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH_Lib.pdb
+D:\gitSource\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.csproj.Up2Date

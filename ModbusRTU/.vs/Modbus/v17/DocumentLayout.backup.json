@@ -1,17 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\source\\ModbusRTU\\",
+  "WorkspaceRootPath": "D:\\gitSource\\ModbusRTU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|d:\\source\\modbusrtu\\modbustcpview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|solutionrelative:modbustcpview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF9CD512-08DA-455D-A086-2ADD7E3865E6}|Modbus_MTH\\Modbus_MTH.csproj|d:\\gitsource\\modbusrtu\\modbus_mth\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF9CD512-08DA-455D-A086-2ADD7E3865E6}|Modbus_MTH\\Modbus_MTH.csproj|solutionrelative:modbus_mth\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|d:\\source\\modbusrtu\\modbustcpview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE1ED3BC-A01A-4D5E-BF7E-F7DDBC2E2658}|Modbus_MTH_Lib\\Modbus_MTH_Lib.csproj|d:\\gitsource\\modbusrtu\\modbus_mth_lib\\panelex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1ED3BC-A01A-4D5E-BF7E-F7DDBC2E2658}|Modbus_MTH_Lib\\Modbus_MTH_Lib.csproj|solutionrelative:modbus_mth_lib\\panelex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1ED3BC-A01A-4D5E-BF7E-F7DDBC2E2658}|Modbus_MTH_Lib\\Modbus_MTH_Lib.csproj|d:\\gitsource\\modbusrtu\\modbus_mth_lib\\navibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1ED3BC-A01A-4D5E-BF7E-F7DDBC2E2658}|Modbus_MTH_Lib\\Modbus_MTH_Lib.csproj|solutionrelative:modbus_mth_lib\\navibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1ED3BC-A01A-4D5E-BF7E-F7DDBC2E2658}|Modbus_MTH_Lib\\Modbus_MTH_Lib.csproj|d:\\gitsource\\modbusrtu\\modbus_mth_lib\\panelex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE1ED3BC-A01A-4D5E-BF7E-F7DDBC2E2658}|Modbus_MTH_Lib\\Modbus_MTH_Lib.csproj|solutionrelative:modbus_mth_lib\\panelex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9CD512-08DA-455D-A086-2ADD7E3865E6}|Modbus_MTH\\Modbus_MTH.csproj|d:\\gitsource\\modbusrtu\\modbus_mth\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9CD512-08DA-455D-A086-2ADD7E3865E6}|Modbus_MTH\\Modbus_MTH.csproj|solutionrelative:modbus_mth\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9CD512-08DA-455D-A086-2ADD7E3865E6}|Modbus_MTH\\Modbus_MTH.csproj|d:\\gitsource\\modbusrtu\\modbus_mth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9CD512-08DA-455D-A086-2ADD7E3865E6}|Modbus_MTH\\Modbus_MTH.csproj|solutionrelative:modbus_mth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1ED3BC-A01A-4D5E-BF7E-F7DDBC2E2658}|Modbus_MTH_Lib\\Modbus_MTH_Lib.csproj|d:\\gitsource\\modbusrtu\\modbus_mth_lib\\navibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE1ED3BC-A01A-4D5E-BF7E-F7DDBC2E2658}|Modbus_MTH_Lib\\Modbus_MTH_Lib.csproj|solutionrelative:modbus_mth_lib\\navibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1ED3BC-A01A-4D5E-BF7E-F7DDBC2E2658}|Modbus_MTH_Lib\\Modbus_MTH_Lib.csproj|d:\\gitsource\\modbusrtu\\modbus_mth_lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1ED3BC-A01A-4D5E-BF7E-F7DDBC2E2658}|Modbus_MTH_Lib\\Modbus_MTH_Lib.csproj|solutionrelative:modbus_mth_lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|d:\\gitsource\\modbusrtu\\modbustcpview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|solutionrelative:modbustcpview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|d:\\source\\modbusrtu\\modbustcpview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|D:\\gitSource\\ModbusRTU\\modbustcpview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|solutionrelative:modbustcpview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|D:\\gitSource\\ModbusRTU\\modbustcpview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A32F9125-AAF0-47D8-B86C-06C4E49EB795}|ModbusTcpView\\ModbusTcpView.csproj|solutionrelative:modbustcpview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,45 +54,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\source\\ModbusRTU\\ModbusTcpView\\Program.cs",
-              "RelativeDocumentMoniker": "ModbusTcpView\\Program.cs",
-              "ToolTip": "D:\\source\\ModbusRTU\\ModbusTcpView\\Program.cs",
-              "RelativeToolTip": "ModbusTcpView\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PanelEx.cs",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\Modbus_MTH_Lib\\PanelEx.cs",
+              "RelativeDocumentMoniker": "Modbus_MTH_Lib\\PanelEx.cs",
+              "ToolTip": "D:\\gitSource\\ModbusRTU\\Modbus_MTH_Lib\\PanelEx.cs",
+              "RelativeToolTip": "Modbus_MTH_Lib\\PanelEx.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T05:00:17.467Z",
+              "WhenOpened": "2025-02-18T14:38:24.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "PanelEx.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\Modbus_MTH_Lib\\PanelEx.cs",
+              "RelativeDocumentMoniker": "Modbus_MTH_Lib\\PanelEx.cs",
+              "ToolTip": "D:\\gitSource\\ModbusRTU\\Modbus_MTH_Lib\\PanelEx.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Modbus_MTH_Lib\\PanelEx.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:38:11.054Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\Modbus_MTH\\FormMain.cs",
+              "RelativeDocumentMoniker": "Modbus_MTH\\FormMain.cs",
+              "ToolTip": "D:\\gitSource\\ModbusRTU\\Modbus_MTH\\FormMain.cs*",
+              "RelativeToolTip": "Modbus_MTH\\FormMain.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:28:02.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\Modbus_MTH\\Program.cs",
+              "RelativeDocumentMoniker": "Modbus_MTH\\Program.cs",
+              "ToolTip": "D:\\gitSource\\ModbusRTU\\Modbus_MTH\\Program.cs",
+              "RelativeToolTip": "Modbus_MTH\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:25:53.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NaviButton.cs",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\Modbus_MTH_Lib\\NaviButton.cs",
+              "RelativeDocumentMoniker": "Modbus_MTH_Lib\\NaviButton.cs",
+              "ToolTip": "D:\\gitSource\\ModbusRTU\\Modbus_MTH_Lib\\NaviButton.cs",
+              "RelativeToolTip": "Modbus_MTH_Lib\\NaviButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:09:23.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NaviButton.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\Modbus_MTH_Lib\\NaviButton.cs",
+              "RelativeDocumentMoniker": "Modbus_MTH_Lib\\NaviButton.cs",
+              "ToolTip": "D:\\gitSource\\ModbusRTU\\Modbus_MTH_Lib\\NaviButton.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Modbus_MTH_Lib\\NaviButton.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:03:28.402Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\Modbus_MTH_Lib\\Class1.cs",
+              "RelativeDocumentMoniker": "Modbus_MTH_Lib\\Class1.cs",
+              "ToolTip": "D:\\gitSource\\ModbusRTU\\Modbus_MTH_Lib\\Class1.cs",
+              "RelativeToolTip": "Modbus_MTH_Lib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:02:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\Modbus_MTH\\FormMain.cs",
+              "RelativeDocumentMoniker": "Modbus_MTH\\FormMain.cs",
+              "ToolTip": "D:\\gitSource\\ModbusRTU\\Modbus_MTH\\FormMain.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "Modbus_MTH\\FormMain.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:26:04.056Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\ModbusTcpView\\Program.cs",
+              "RelativeDocumentMoniker": "ModbusTcpView\\Program.cs",
+              "ToolTip": "D:\\gitSource\\ModbusRTU\\ModbusTcpView\\Program.cs",
+              "RelativeToolTip": "ModbusTcpView\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T05:00:17.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\source\\ModbusRTU\\ModbusTcpView\\Form1.cs",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\ModbusTcpView\\Form1.cs",
               "RelativeDocumentMoniker": "ModbusTcpView\\Form1.cs",
-              "ToolTip": "D:\\source\\ModbusRTU\\ModbusTcpView\\Form1.cs",
+              "ToolTip": "D:\\gitSource\\ModbusRTU\\ModbusTcpView\\Form1.cs",
               "RelativeToolTip": "ModbusTcpView\\Form1.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwEQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAIsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T04:51:32.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\source\\ModbusRTU\\ModbusTcpView\\Form1.cs",
+              "DocumentMoniker": "D:\\gitSource\\ModbusRTU\\ModbusTcpView\\Form1.cs",
               "RelativeDocumentMoniker": "ModbusTcpView\\Form1.cs",
               "ToolTip": "D:\\source\\ModbusRTU\\ModbusTcpView\\Form1.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "ModbusTcpView\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\source\\ModbusRTU\\ModbusTcpView\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:51:07.073Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-02-16T04:51:07.073Z"
             }
           ]
         }
