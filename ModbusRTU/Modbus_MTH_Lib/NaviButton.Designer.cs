@@ -33,8 +33,9 @@
             // 
             // lable_titleName
             // 
+            this.lable_titleName.BackColor = System.Drawing.Color.Transparent;
             this.lable_titleName.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.lable_titleName.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.lable_titleName.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lable_titleName.ForeColor = System.Drawing.Color.White;
             this.lable_titleName.Location = new System.Drawing.Point(0, 0);
             this.lable_titleName.Name = "lable_titleName";
@@ -46,11 +47,15 @@
             // 
             // NaviButton
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.BackColor = System.Drawing.Color.Transparent;
+            this.BackgroundImage = global::Modbus_MTH_Lib.Properties.Resources.LeftUnSelected;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Controls.Add(this.lable_titleName);
+            this.DoubleBuffered = true;
+            this.Font = new System.Drawing.Font("Microsoft YaHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "NaviButton";
             this.Size = new System.Drawing.Size(129, 43);
             this.ResumeLayout(false);

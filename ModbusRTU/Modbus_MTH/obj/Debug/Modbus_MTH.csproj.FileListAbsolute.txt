@@ -11,3 +11,16 @@ D:\gitSource\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.pdb
 D:\gitSource\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH_Lib.dll
 D:\gitSource\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH_Lib.pdb
 D:\gitSource\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.csproj.Up2Date
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH.exe.config
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH.exe
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH.pdb
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH_Lib.dll
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\bin\Debug\Modbus_MTH_Lib.pdb
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.csproj.AssemblyReference.cache
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.FormMain.resources
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.Properties.Resources.resources
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.csproj.GenerateResource.cache
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.csproj.CoreCompileInputs.cache
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.csproj.CopyComplete
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.exe
+E:\source\UpperComputer\ModbusRTU\Modbus_MTH\obj\Debug\Modbus_MTH.pdb

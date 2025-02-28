@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -88,6 +88,87 @@
       <Project>{ce1ed3bc-a01a-4d5e-bf7e-f7ddbc2e2658}</Project>
       <Name>Modbus_MTH_Lib</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackGround.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\Current.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\LeftSelected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\LeftUnSelected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\RightSelected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\RightUnSelected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\Title.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\Alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\BackGround.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\double right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\head_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\header.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\Login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\login_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\LoginBg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\Main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\TitleBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imageSource\warning.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

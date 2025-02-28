@@ -16,10 +16,5 @@ namespace Modbus_MTH
         {
             InitializeComponent();
         }
-
-        private void naviButton1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("aaaa");
-        }
     }
 }

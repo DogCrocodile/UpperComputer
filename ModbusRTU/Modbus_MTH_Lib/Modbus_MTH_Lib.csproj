@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -44,6 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DialPlate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DialPlate.Designer.cs">
+      <DependentUpon>DialPlate.cs</DependentUpon>
+    </Compile>
     <Compile Include="NaviButton.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -62,8 +68,17 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="THMControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="THMControl.Designer.cs">
+      <DependentUpon>THMControl.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="DialPlate.resx">
+      <DependentUpon>DialPlate.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="NaviButton.resx">
       <DependentUpon>NaviButton.cs</DependentUpon>
     </EmbeddedResource>
@@ -71,6 +86,18 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ImageSource\LeftSelected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ImageSource\LeftUnSelected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ImageSource\RightSelected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ImageSource\RightUnSelected.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

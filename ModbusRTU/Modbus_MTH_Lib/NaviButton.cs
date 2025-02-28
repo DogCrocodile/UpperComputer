@@ -60,7 +60,7 @@ namespace Modbus_MTH_Lib
         [Description("设置或显示导航按钮内容")]
         public string TitleName
         {
-            get { return _titleName = "导航按钮"; }
+            get { return _titleName; }
             set 
             { 
                 _titleName = value;
@@ -76,11 +76,11 @@ namespace Modbus_MTH_Lib
         {
             if (_isLeft)
             {
-                //this.BackgroundImage = this._isSelected ? Properties.Resources. : Properties.Resources.;
+                this.BackgroundImage = this._isSelected ? Properties.Resources.LeftSelected : Properties.Resources.LeftUnSelected;
             }
             else
             {
-                //this.BackgroundImage = this._isSelected ? Properties.Resources. : Properties.Resources.;
+                this.BackgroundImage = this._isSelected ? Properties.Resources.RightSelected : Properties.Resources.RightUnSelected;
             }
         }
 
