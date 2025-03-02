@@ -4,3 +4,9 @@ D:\source\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCPLib.csproj.AssemblyReference.ca
 D:\source\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCPLib.csproj.CoreCompileInputs.cache
 D:\source\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCP.dll
 D:\source\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCP.pdb
+D:\gitSource\ModbusRTU\ModbusTCP\bin\Debug\ModbusTCP.dll
+D:\gitSource\ModbusRTU\ModbusTCP\bin\Debug\ModbusTCP.pdb
+D:\gitSource\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCPLib.csproj.AssemblyReference.cache
+D:\gitSource\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCPLib.csproj.CoreCompileInputs.cache
+D:\gitSource\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCP.dll
+D:\gitSource\ModbusRTU\ModbusTCP\obj\Debug\ModbusTCP.pdb

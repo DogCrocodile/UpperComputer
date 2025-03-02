@@ -16,3 +16,9 @@ E:\source\UpperComputer\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.csproj
 E:\source\UpperComputer\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.csproj.CoreCompileInputs.cache
 E:\source\UpperComputer\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.dll
 E:\source\UpperComputer\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.pdb
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.DialPlate.resources
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.THMControl.resources
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.Title.resources
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.TextSet.resources
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_MTH_Lib.TextSetEx.resources
+D:\gitSource\ModbusRTU\Modbus_MTH_Lib\obj\Debug\Modbus_M.B4A01C0D.Up2Date

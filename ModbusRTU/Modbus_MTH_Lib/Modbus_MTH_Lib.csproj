@@ -31,6 +31,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="SeeSharpTools.JY.GUI, Version=1.4.4.533, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SeeSharpTools.JY.GUI.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -43,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CheckBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CheckBoxEx.Designer.cs">
+      <DependentUpon>CheckBoxEx.cs</DependentUpon>
+    </Compile>
     <Compile Include="Class1.cs" />
     <Compile Include="DialPlate.cs">
       <SubType>UserControl</SubType>
@@ -56,6 +66,12 @@
     <Compile Include="NaviButton.Designer.cs">
       <DependentUpon>NaviButton.cs</DependentUpon>
     </Compile>
+    <Compile Include="PanelEnhanced.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PanelEnhanced.Designer.cs">
+      <DependentUpon>PanelEnhanced.cs</DependentUpon>
+    </Compile>
     <Compile Include="PanelEx.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -68,11 +84,29 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="TextSet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TextSet.Designer.cs">
+      <DependentUpon>TextSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextSetEx.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TextSetEx.Designer.cs">
+      <DependentUpon>TextSetEx.cs</DependentUpon>
+    </Compile>
     <Compile Include="THMControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="THMControl.Designer.cs">
       <DependentUpon>THMControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Title.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Title.Designer.cs">
+      <DependentUpon>Title.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -86,6 +120,18 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="TextSet.resx">
+      <DependentUpon>TextSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextSetEx.resx">
+      <DependentUpon>TextSetEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="THMControl.resx">
+      <DependentUpon>THMControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Title.resx">
+      <DependentUpon>Title.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\ImageSource\LeftSelected.png" />
@@ -98,6 +144,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\ImageSource\RightUnSelected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Title.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -29,7 +29,6 @@ namespace Modbus_MTH_Lib
         /// </summary>
         private void InitializeComponent()
         {
-            this.dialPlate = new DialPlate();
             this.lbl_Title = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.lbl_Temp = new System.Windows.Forms.Label();
@@ -37,32 +36,8 @@ namespace Modbus_MTH_Lib
             this.label4 = new System.Windows.Forms.Label();
             this.lbl_Humidity = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.dialPlate = new Modbus_MTH_Lib.DialPlate();
             this.SuspendLayout();
-            // 
-            // dialPlate
-            // 
-            this.dialPlate.AlarmAngle = 120F;
-            this.dialPlate.AlarmColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(184)))), ((int)(((byte)(196)))));
-            this.dialPlate.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(28)))), ((int)(((byte)(68)))));
-            this.dialPlate.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.dialPlate.ForeColor = System.Drawing.Color.White;
-            this.dialPlate.Humidity = 10F;
-            this.dialPlate.HumidityColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(184)))), ((int)(((byte)(196)))));
-            this.dialPlate.HumidityScale = 0.35F;
-            this.dialPlate.InThinkness = 16;
-            this.dialPlate.Location = new System.Drawing.Point(20, 15);
-            this.dialPlate.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.dialPlate.Name = "dialPlate";
-            this.dialPlate.OutThinkness = 8;
-            this.dialPlate.RangeMax = 90F;
-            this.dialPlate.RangeMin = 0F;
-            this.dialPlate.RingColor = System.Drawing.Color.FromArgb(((int)(((byte)(187)))), ((int)(((byte)(187)))), ((int)(((byte)(187)))));
-            this.dialPlate.Size = new System.Drawing.Size(327, 210);
-            this.dialPlate.TabIndex = 0;
-            this.dialPlate.Temp = 10F;
-            this.dialPlate.TempColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(184)))), ((int)(((byte)(196)))));
-            this.dialPlate.TempScale = 0.65F;
-            this.dialPlate.TextScale = 0.85F;
             // 
             // lbl_Title
             // 
@@ -150,18 +125,43 @@ namespace Modbus_MTH_Lib
             this.label6.Text = "℃";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // dialPlate
+            // 
+            this.dialPlate.AlarmAngle = 120F;
+            this.dialPlate.AlarmColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(184)))), ((int)(((byte)(196)))));
+            this.dialPlate.BackColor = System.Drawing.Color.Transparent;
+            this.dialPlate.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.dialPlate.ForeColor = System.Drawing.Color.White;
+            this.dialPlate.Humidity = 10F;
+            this.dialPlate.HumidityColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(184)))), ((int)(((byte)(196)))));
+            this.dialPlate.HumidityScale = 0.35F;
+            this.dialPlate.InThinkness = 16;
+            this.dialPlate.Location = new System.Drawing.Point(20, 15);
+            this.dialPlate.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.dialPlate.Name = "dialPlate";
+            this.dialPlate.OutThinkness = 8;
+            this.dialPlate.RangeMax = 90F;
+            this.dialPlate.RangeMin = 0F;
+            this.dialPlate.RingColor = System.Drawing.Color.FromArgb(((int)(((byte)(187)))), ((int)(((byte)(187)))), ((int)(((byte)(187)))));
+            this.dialPlate.Size = new System.Drawing.Size(327, 210);
+            this.dialPlate.TabIndex = 0;
+            this.dialPlate.Temp = 10F;
+            this.dialPlate.TempColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(184)))), ((int)(((byte)(196)))));
+            this.dialPlate.TempScale = 0.65F;
+            this.dialPlate.TextScale = 0.85F;
+            // 
             // THMControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(28)))), ((int)(((byte)(68)))));
+            this.Controls.Add(this.lbl_Title);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.lbl_Humidity);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.lbl_Temp);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.lbl_Title);
             this.Controls.Add(this.dialPlate);
             this.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -169,6 +169,7 @@ namespace Modbus_MTH_Lib
             this.Size = new System.Drawing.Size(365, 256);
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
 
         #endregion

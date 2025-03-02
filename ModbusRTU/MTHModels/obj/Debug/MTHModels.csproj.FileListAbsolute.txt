@@ -1,0 +1,7 @@
+D:\gitSource\ModbusRTU\MTHModels\bin\Debug\MTHModels.dll
+D:\gitSource\ModbusRTU\MTHModels\bin\Debug\MTHModels.pdb
+D:\gitSource\ModbusRTU\MTHModels\obj\Debug\MTHModels.csproj.AssemblyReference.cache
+D:\gitSource\ModbusRTU\MTHModels\obj\Debug\MTHModels.csproj.CoreCompileInputs.cache
+D:\gitSource\ModbusRTU\MTHModels\obj\Debug\MTHModels.dll
+D:\gitSource\ModbusRTU\MTHModels\obj\Debug\MTHModels.pdb
+D:\gitSource\ModbusRTU\MTHModels\obj\Debug\MTHModels.csproj.Up2Date
